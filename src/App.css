@@ -40,3 +40,26 @@
 .read-the-docs {
   color: #888;
 }
+
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+.firstButton {
+  background-color: green;
+  cursor: pointer;
+  box-shadow: 0px 3px 5px grey;
+}
+.secondButton {
+  background-color: yellow;
+  cursor: pointer;
+  box-shadow: 0px 3px 5px gray;
+}
+.thirdButton {
+  background-color: red;
+  cursor: pointer;
+  box-shadow: 0px 3px 5px gray;
+}
+.blocks {
+  margin-bottom: 10px;
+}
